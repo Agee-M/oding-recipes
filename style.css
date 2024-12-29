@@ -1,0 +1,53 @@
+/* All HTML */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    text-align: justify;
+    text-decoration: none;
+}
+
+.homepage-link {
+    padding: 50px; 
+    text-align: center;
+    background-color: rgba(197, 252, 252, 0.763);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 2em;
+    color: rgb(47, 89, 119);
+    display: block;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+h2 {
+    text-align: center;
+    margin: 20px;
+}
+
+
+/* Homepage */
+
+
+.chicken-link,
+.spaghetti-link,
+.oats-link {
+    text-align: center;
+    padding: 3em;
+    margin: 1em 0px;
+    background-color: aliceblue;
+    color: black;
+    font-size: 1.5em;
+    display: block;
+}
+
+
+/* Chicken Breast */
+
+
+.chicken-recipe,
+.oats-recipe,
+.spaghetti-recipe {
+    width: 750px;
+    margin: auto;
+}
