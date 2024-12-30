@@ -1,7 +1,7 @@
 # odin-recipes
 
 This is a project to introduce all of the HTML knowledge I have acquired thus far.
-I'll be building a basic recipe site which will allow to showcase:
+I'll be building a basic recipe site which will allow me to showcase:
 
 - Different webpages and their interactions
 
